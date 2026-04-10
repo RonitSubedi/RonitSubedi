@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ronit Subedi 👋</h1>
 
-<!--
-**RonitSubedi/RonitSubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌍 Based in Nepal | 💻 Aspiring Developer | 🔐 Cybersecurity Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a passionate learner exploring the world of programming, web development, and cybersecurity.  
+I love building projects, solving challenges, and improving my skills every day.
+
+---
+
+## 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📌 Projects I'm Proud Of
+- 🔹 **Summer Enrichment Project** — JavaScript  
+- 🔹 **Second Year Project** — JavaScript  
+- 🔹 **Online Watch Store (First Year Project)** — HTML  
+- 🔹 **Cybersecurity Fundamentals** — Learning basics  
+- 🔹 **Daily Dev Challenges** — Small daily coding tasks  
+
+---
+
+## 📫 Let's Connect!
+<p>
+  <a href="mailto:sronit533@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ronit-subedi-44a6a334b">LinkedIn</a> •
+  <a href="https://instagram.com/ronit643">Instagram</a>
+</p>
+
+---
+
+## 🎉 Fun Fact  
+I love learning new tech concepts and building small projects that challenge my skills!
