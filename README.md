@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ronit Subedi 👋</h1>
 
 <p align="center">
-  🌍 Based in Nepal | 💻 Web Developer | 
+  🌍 Based in Nepal | 💻 Web Developer 
 </p>
 
 ---
@@ -19,6 +19,15 @@ I love building projects, solving challenges, and improving my skills every day.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
 </p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonitSubedi&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitSubedi&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
 ---
 
 ## 📌 Projects I'm Proud Of
