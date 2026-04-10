@@ -22,12 +22,6 @@ I love building projects, solving challenges, and improving my skills every day.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonitSubedi&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitSubedi&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
 ---
 
 ## 📌 Projects I'm Proud Of
