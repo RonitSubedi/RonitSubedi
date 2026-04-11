@@ -38,6 +38,7 @@ I love building projects, solving challenges, and improving my skills every day.
   <a href="mailto:sronit533@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ronit-subedi-44a6a334b">LinkedIn</a> •
   <a href="https://instagram.com/ronit643">Instagram</a>
+   <a href="https://ronit-portfolio-alpha.vercel.app/">Portfolio</a>
 </p>
 
 ---
